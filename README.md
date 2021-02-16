@@ -35,11 +35,11 @@ Congrats, The 'MyChat-Application' has been started on your local server.
 
 ## Features
 
-- [x] Offline support
-- [ ] Auto update chats
-- [ ] Make Groups / Chat Rooms
-- [ ] Bubble showing who read message
-- [ ] Auto Login
+- [x] Auto update chats
+- [x] Make Groups / Chat Rooms
+- [x] Bubble showing who read message
+- [x] Auto Login
+- [ ] Offline support
 
 ## Built With
 
