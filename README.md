@@ -12,23 +12,24 @@ Will be updated soon
 
 Clone the source Locally:
 
-'''sh
+```sh
 $ git clone https://github.com/ArynKr/chat-application.git
 $ cd chat-application
-'''
+```
 
 If you don't have nodejs, install from [here](https://www.nodejs.org)
 
 Install project dependencies:
 
-'''sh
+```sh
 $ npm install
-'''
+```
 
 Start the app
-'''sh
+
+```sh
 $ npm start
-'''
+```
 
 Congrats, The 'MyChat-Application' has been started on your local server.
 
